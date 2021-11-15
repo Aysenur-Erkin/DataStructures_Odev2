@@ -4,7 +4,7 @@
 #include<math.h>
 
 //AYSENUR ERKIN
-//1360859072
+//19360859072
 
 //SORU-1
 struct node{
