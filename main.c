@@ -47,7 +47,6 @@ int main(){
 
 
 //SORU-2
-/*
 int index=0;
 void palindrom_kontrol(char kelime[]){
 
@@ -76,11 +75,9 @@ int main(){
     return 0;
 }
 
-*/
 
 
 //SORU-3
-/*
 int i=2;
 int Asal_Kontrol(int n){
  if(n==i){
@@ -108,11 +105,9 @@ int main()
     }
 }
 
-*/
 
 
 //SORU-4
-/*
 void carpanlarina_ayirma(int n, int sayac){
  if(n<1){
     return 0;
@@ -139,7 +134,7 @@ int main()
 
     return 0;
 }
-*/
+
 
 
 
